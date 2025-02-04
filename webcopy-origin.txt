@@ -1,0 +1,556 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:500&display=swap
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/earlyaccess/droidarabickufi.css
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\droidarabickufi-1.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.eot
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Bold.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.eot?
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Bold-1.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.ttf
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Bold-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.woff
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Bold.woff2
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Regular.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.eot?
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Regular-1.eot
+Content Type: font/eot
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.ttf
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Regular-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/ea/droidarabickufi/v6/DroidKufi-Regular.woff2
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\DroidKufi-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\KFOlCnqEu92Fr1MmEU9fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://img.rating-widget.com/logo/rw-logo-16x16-sprite.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\rw-logo-16x16-sprite-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-12.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/تغليف-اثاث-مسقط-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-18.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/تغليف-اثاث-مسقط-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-29.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/شركة-نقل-عفش-سلطنة-عمان-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-16.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/شركة-نقل-عفش-سلطنة-عمان-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-27.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/فك-وتركيب-ونقل-العفش-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-20.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/فك-وتركيب-ونقل-العفش-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-31.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نجار-فك-وتركيب-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-19.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نجار-فك-وتركيب-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-30.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-باقل-الاسعار-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-24.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-باقل-الاسعار-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-35.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-سلطنة-عمان-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-17.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-سلطنة-عمان-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-28.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صحار-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-23.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صحار-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-34.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صلاله-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-22.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صلاله-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-33.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صور-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-26.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-اثاث-مسقط-صور-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-37.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/نقل-عفش-مسقط-97920090/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-21.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/نقل-عفش-مسقط-97920090/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-32.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/category/services/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-25.htm
+Content Type: text/html
+
+Uri: https://qarootmovingfurniture.com/category/services/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-36.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/comments/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-14.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/feed/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-13.htm
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/autoptimize/js/autoptimize_01fe2cde714809704049dcaa53243203.js
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\autoptimize_01fe2cde714809704049dcaa53243203-1.js
+Content Type: application/javascript
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/autoptimize/js/autoptimize_2a198bcb324a9da541ae49cd2cff3eba.js
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\autoptimize_2a198bcb324a9da541ae49cd2cff3eba-1.js
+Content Type: application/javascript
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/autoptimize/js/autoptimize_bdab54e74687fab075a1225f4227f640.js
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\autoptimize_bdab54e74687fab075a1225f4227f640-1.js
+Content Type: application/javascript
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/autoptimize/js/autoptimize_ea74bc5fd0fd5d8aebd57f2d3c15643a.js
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\autoptimize_ea74bc5fd0fd5d8aebd57f2d3c15643a-1.js
+Content Type: application/javascript
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/wpfc-minified/9ibgrm8p/fqkx5.js
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fqkx5-1.js
+Content Type: application/javascript
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/wpfc-minified/divzb9vc/fqkx5.css
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fqkx5-1.css
+Content Type: text/css
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/wpfc-minified/dsietoap/445r1.css
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\445r1-1.css
+Content Type: text/css
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/wpfc-minified/ftbqy2p8/43v9y.css
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\43v9y-1.css
+Content Type: text/css
+
+Uri: https://qarootmovingfurniture.com/wp-content/cache/wpfc-minified/mov5i9qt/h5h3v.css
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\h5h3v-1.css
+Content Type: text/css
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.8.7
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\academicons-3.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff2?v=1.9.2
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\academicons-2.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-2.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\Genericons-1.woff
+Content Type: font/woff
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.10
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\socicon-5.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.14
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\socicon-6.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.17
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\socicon-7.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff2?v=4.2.18
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\socicon-4.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem-buttons/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem-buttons/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-4.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem-buttons/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-2.svg
+Content Type: image/svg+xml
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem-buttons/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-2.ttf
+Content Type: font/ttf
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem-buttons/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-2.woff
+Content Type: font/woff
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\ajax-loader-1.gif
+Content Type: image/gif
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/hearts-large.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\hearts-large-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/hearts-small.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\hearts-small-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/stars-large.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\stars-large-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/stars-small.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\stars-small-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/stripes.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\stripes-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/thumbs-large.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\thumbs-large-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/plugins/taqyeem/images/thumbs-small.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\thumbs-small-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.eot
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\bs-icons-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.eot?
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\bs-icons-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.svg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\bs-icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.ttf
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\bs-icons-1.ttf
+Content Type: font/ttf
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.woff
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\bs-icons-1.woff
+Content Type: font/woff
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-6.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-3.svg
+Content Type: image/svg+xml
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-3.ttf
+Content Type: font/ttf
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-3.woff2
+Content Type: font/woff2
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fontawesome-webfont-3.woff
+Content Type: font/woff
+
+Uri: https://qarootmovingfurniture.com/wp-content/themes/publisher/includes/libs/better-framework/assets/img/pretty-photo-loader.gif
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\pretty-photo-loader-1.gif
+Content Type: image/gif
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2021/02/banner02.gif
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\banner02-1.gif
+Content Type: image/gif
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/08/10.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/08/6.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/08/7.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/08/8.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/08/9.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/1.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/2.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/3.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/4.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/5.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/banner-copy.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\banner-copy-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/fav-65x65.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fav-65x65-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/fav.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\fav-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/logo-copy.png
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\logo-copy-1.png
+Content Type: image/png
+
+Uri: https://qarootmovingfurniture.com/wp-content/uploads/2023/09/sidebar-copy.jpg
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\sidebar-copy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://qarootmovingfurniture.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\dashicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://qarootmovingfurniture.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\dashicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://qarootmovingfurniture.com/wp-json/
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\index-15.htm
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d8%25aa%25d8%25ba%25d9%2584%25d9%258a%25d9%2581-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-4
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d8%25aa%25d8%25ba%25d9%2584%25d9%258a%25d9%2581-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-5
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d8%25b4%25d8%25b1%25d9%2583%25d8%25a9-%25d9%2586%25d9%2582%25d9%2584-%25d8%25b9%25d9%2581%25d8%25b4-%25d8%25b3%25d9%2584%25d8%25b7%25d9%2586%25d8%25a9-%25d8%25b9%25d9%2585%25d8%25a7%25d9%2586-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d8%25b4%25d8%25b1%25d9%2583%25d8%25a9-%25d9%2586%25d9%2582%25d9%2584-%25d8%25b9%25d9%2581%25d8%25b4-%25d8%25b3%25d9%2584%25d8%25b7%25d9%2586%25d8%25a9-%25d8%25b9%25d9%2585%25d8%25a7%25d9%2586-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-1
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2581%25d9%2583-%25d9%2588%25d8%25aa%25d8%25b1%25d9%2583%25d9%258a%25d8%25a8-%25d9%2588%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d9%2584%25d8%25b9%25d9%2581%25d8%25b4-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-8
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2581%25d9%2583-%25d9%2588%25d8%25aa%25d8%25b1%25d9%2583%25d9%258a%25d8%25a8-%25d9%2588%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d9%2584%25d8%25b9%25d9%2581%25d8%25b4-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-9
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d8%25ac%25d8%25a7%25d8%25b1-%25d9%2581%25d9%2583-%25d9%2588%25d8%25aa%25d8%25b1%25d9%2583%25d9%258a%25d8%25a8-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-6
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d8%25ac%25d8%25a7%25d8%25b1-%25d9%2581%25d9%2583-%25d9%2588%25d8%25aa%25d8%25b1%25d9%2583%25d9%258a%25d8%25a8-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-7
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d8%25a8%25d8%25a7%25d9%2582%25d9%2584-%25d8%25a7%25d9%2584%25d8%25a7%25d8%25b3%25d8%25b9%25d8%25a7%25d8%25b1-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-16
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d8%25a8%25d8%25a7%25d9%2582%25d9%2584-%25d8%25a7%25d9%2584%25d8%25a7%25d8%25b3%25d8%25b9%25d8%25a7%25d8%25b1-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-17
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d8%25b3%25d9%2584%25d8%25b7%25d9%2586%25d8%25a9-%25d8%25b9%25d9%2585%25d8%25a7%25d9%2586-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-2
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d8%25b3%25d9%2584%25d8%25b7%25d9%2586%25d8%25a9-%25d8%25b9%25d9%2585%25d8%25a7%25d9%2586-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-3
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d8%25ad%25d8%25a7%25d8%25b1-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-14
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d8%25ad%25d8%25a7%25d8%25b1-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-15
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d9%2584%25d8%25a7%25d9%2584%25d9%2587-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-12
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d9%2584%25d8%25a7%25d9%2584%25d9%2587-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-13
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d9%2588%25d8%25b1-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-18
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25a7%25d8%25ab%25d8%25a7%25d8%25ab-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-%25d8%25b5%25d9%2588%25d8%25b1-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-19
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25b9%25d9%2581%25d8%25b4-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-97920090%2F
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-10
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fqarootmovingfurniture.com%2F%25d9%2586%25d9%2582%25d9%2584-%25d8%25b9%25d9%2581%25d8%25b4-%25d9%2585%25d8%25b3%25d9%2582%25d8%25b7-97920090%2F&format=xml
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\embed-11
+Content Type: text/xml
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\1
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/209
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\209
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/967
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\967
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/968
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\968
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/969
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\969
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/970
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\970
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/971
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\971
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/972
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\972
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/973
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\973
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/981
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\981
+Content Type: application/json
+
+Uri: https://qarootmovingfurniture.com/wp-json/wp/v2/posts/982
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\982
+Content Type: application/json
+
+Uri: https://secure.rating-widget.com/css/widget/recommendations.css?ck=Y2023M09D05&ver=3.2.1
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\recommendations-6.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/widget/recommendations.css?ck=Y2024M04D01&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\recommendations-7.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/widget/recommendations.css?ck=Y2024M05D15&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\recommendations-4.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/widget/recommendations.css?ck=Y2024M05D16&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\recommendations-5.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/wordpress/toprated.css?ck=Y2023M09D05&ver=3.2.1
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\toprated-6.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/wordpress/toprated.css?ck=Y2024M04D01&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\toprated-7.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/wordpress/toprated.css?ck=Y2024M05D15&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\toprated-4.css
+Content Type: text/css
+
+Uri: https://secure.rating-widget.com/css/wordpress/toprated.css?ck=Y2024M05D16&ver=3.2.3
+File Name: C:\Downloaded Web Sites\qarootmovingfurniture.com\toprated-5.css
+Content Type: text/css
+
